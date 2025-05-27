@@ -1,6 +1,6 @@
 # 🏠 Kenya Rental Listings Scraper
 
-This project is a Python web scraper that extracts rental property listings from [Property24 Kenya](https://www.property24.co.ke/). It collects data such as property title, location, number of bedrooms and bathrooms, house size, price, and description, then saves it to a CSV file for further use.
+This project is a Python web scraper that extracts rental property listings from [Property24 Kenya](https://www.property24.co.ke/). It collects data such as property title, location, number of bedrooms and bathrooms, house size, price and description. The data is saved to a CSV file for further use like analysis and visualization with excel or PowerBi.
 
 ---
 
