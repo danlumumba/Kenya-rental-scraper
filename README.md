@@ -17,7 +17,7 @@ This project is a Python web scraper that extracts rental property listings from
   - 💰 Price
 - Saves the data into a structured CSV file.
 - Handles 404 pages and interruptions gracefully.
-- Skips empty or incomplete entries.
+- Skips empty or incomplete entries or rows.
 
 ---
 
