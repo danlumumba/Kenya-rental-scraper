@@ -24,6 +24,9 @@ This project is a Python web scraper that extracts rental property listings from
 ## ⚙️ Requirements
 
 Install the required libraries using pip:
+- BeautifulSoup4
+- Requests
+- Pandas
 
 ```bash
 pip install requests beautifulsoup4 pandas
